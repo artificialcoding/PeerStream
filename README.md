@@ -31,7 +31,8 @@ IF RUNNING ON LAN
   
                             OR  
   
-IF EXPOSING APP TO INTERNET -- ngrok can be used for making our local webApp public ::
+IF EXPOSING APP TO INTERNET -- ngrok can be used for making our local webApp public :
+
 2) Just install ngrok and go to the directory where it is installed and run -->  `./ngrok http https://localhost:8443`
  
 3) Run npm start in the terminal opened in PeerStream Directory
