@@ -26,7 +26,8 @@ Steps to start-->
 
 1) Run `npm install` OR `npm install --save ws` in the terminal opened in PeerStream Directory.
 
-IF RUNNING ON LAN
+IF RUNNING ON LAN :
+
 2) Uncomment line 75 and replace the IP by your IP. Also comment the line 76.
   
                             OR  
