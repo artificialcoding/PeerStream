@@ -28,7 +28,7 @@ Steps to start-->
 
 IF RUNNING ON LAN :
 
-2) Uncomment line 75 and replace the IP by your IP. Also comment the line 76.
+2) In the file, webrtc.js in client directory, Uncomment line 75 and replace the IP by your IP. Also comment the line 76.
   
                             OR  
   
