@@ -1,4 +1,4 @@
-List of All the Contributers to the code --- >
+List of All the Contributors to the code --- >
 
 1) Akshat Sharma     ===> akshat7101999@gmail.com        ==> Github Username - akshat7101999
 
