@@ -72,8 +72,8 @@ function start() {
 
       // set up websocket and message all existing clients
       .then(() => {
-        serverConnection = new WebSocket('wss://' + "172.16.36.100:8443");
-        //serverConnection = new WebSocket('wss://' + window.location.hostname);
+        //serverConnection = new WebSocket('wss://' + "172.16.36.100:8443");
+        serverConnection = new WebSocket('wss://' + window.location.hostname);
         serverConnection.onmessage = gotMessageFromServer; 
         // on getting a message from the server call gotMessageFromServer
         serverConnection.onopen = event => { 
